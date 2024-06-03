@@ -15,7 +15,10 @@
     "title": "Join our newsletter 🎉",
     "description": "Read and share new perspectives on just about any topic. Everyone’s welcome.",
     "right_image": "/images/SVG-subcribe2.png",
-    "features_list": ["Create a free account.", "Write your stories."]
+    "features_list": [
+      "Create a free account.",
+      "Write your stories."
+    ]
   },
   "top_banner": {
     "enable": true,
@@ -32,18 +35,18 @@
     "sub_title": "Let's explore the most popular categories"
   },
   "site_info": {
-    "site_title": "Ncmaz Nextjs Blog",
-    "site_description": "Ncmaz Nextjs Blog headless WordPress",
-    "site_keywords": "Ncmaz Nextjs Blog",
-    "site_author": "ChisNghiax",
-    "site_email": "Your Email",
-    "site_phone": "Your Phone",
-    "site_address": "Your Address",
-    "site_city": "Your City",
-    "site_state": "Your State",
-    "site_zip": "Your Zip",
-    "site_country": "Your Country",
-    "site_url": "https://www.yoursite.com",
+    "site_title": "Homegrown Blog",
+    "site_description": "Homegrown Nextjs Blog headless WordPress",
+    "site_keywords": "Homegrown Nextjs Blog",
+    "site_author": "AJCarbajal",
+    "site_email": "aj@homegrown619.com",
+    "site_phone": "619-555-5555",
+    "site_address": "3110 Camino Del Rio South",
+    "site_city": "San Diego",
+    "site_state": "CA",
+    "site_zip": "92108",
+    "site_country": "USA",
+    "site_url": "https://homegrown619.com",
     "site_logo": "/logo.png",
     "site_logo_light": "/logo-light.png",
     "site_favicon": "/favicon.png"
@@ -61,7 +64,6 @@
       "icon": "/images/socials/x-twitter.svg",
       "description": "Follow us on Twitter"
     },
-
     {
       "name": "github",
       "url": "https://www.github.com/yourmediumpage",
@@ -81,7 +83,7 @@
     }
   },
   "site_footer": {
-    "all_rights_reserved_text": "© 2023 ChisNghiax Company, Inc. All rights reserved."
+    "all_rights_reserved_text": "© 2024 Little Boy Production Company, Inc. All rights reserved."
   },
   "single_page": {
     "show_view_cout": true,
@@ -153,7 +155,7 @@
     "lost_password": {
       "is_use_lostpassword_default_of_wp": false,
       "message": "Lost password not implemented yet! Please contact admmin for support.",
-      "url_lostpassword_default_of_wp": "https://yourwebsite.com/wp-login.php?action=lostpassword"
+      "url_lostpassword_default_of_wp": "https://homegrown619.com/wp-login.php?action=lostpassword"
     }
   },
   "mobile_nav_sidebar": {
@@ -208,7 +210,6 @@
   "cookies_policy_page": {
     "uri": "#"
   },
-
   "empty_state": {
     "title": "No results found.",
     "description": "We couldn’t find any results. Try for something else."
