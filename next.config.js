@@ -6,8 +6,7 @@ const { withFaust, getWpHostname } = require("@faustwp/core");
 module.exports = withFaust({
   trailingSlash: true,
   experimental: {
-    typedRoutes: false,
-    appDir: false,
+    typedRoutes: false
   },
   images: {
     remotePatterns: [
